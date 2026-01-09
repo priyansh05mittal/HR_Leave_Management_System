@@ -54,7 +54,7 @@ app.use(
     origin: [
       "http://localhost:5173",          // local frontend
       "http://localhost:3000",          // CRA (if used)
-      "https://your-frontend.vercel.app" // replace after Vercel deploy
+      "https://hr-leave-management-system-pi.vercel.app" // replace after Vercel deploy
     ],
     credentials: true,
   })

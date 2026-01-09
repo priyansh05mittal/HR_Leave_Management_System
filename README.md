@@ -1,5 +1,10 @@
 ## Employee Leave & Attendance Management System
 
+## Live Demo
+
+Frontend: https://hr-leave-management-system-pi.vercel.app  
+Backend API: https://hr-leave-management-system.onrender.com/api
+
 ## Project Overview
 
 -> This project is a Mini HR Management System that allows organizations to manage employee leave requests and daily attendance with proper role-based access control.
